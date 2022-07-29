@@ -1,0 +1,14 @@
+C:\Users\demo\source\repos\romboidApp\romboidApp\bin\Debug\netcoreapp3.1\romboidApp.exe
+C:\Users\demo\source\repos\romboidApp\romboidApp\bin\Debug\netcoreapp3.1\romboidApp.deps.json
+C:\Users\demo\source\repos\romboidApp\romboidApp\bin\Debug\netcoreapp3.1\romboidApp.runtimeconfig.json
+C:\Users\demo\source\repos\romboidApp\romboidApp\bin\Debug\netcoreapp3.1\romboidApp.runtimeconfig.dev.json
+C:\Users\demo\source\repos\romboidApp\romboidApp\bin\Debug\netcoreapp3.1\romboidApp.dll
+C:\Users\demo\source\repos\romboidApp\romboidApp\bin\Debug\netcoreapp3.1\romboidApp.pdb
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.csproj.AssemblyReference.cache
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.AssemblyInfoInputs.cache
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.AssemblyInfo.cs
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.csproj.CoreCompileInputs.cache
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.dll
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.pdb
+C:\Users\demo\source\repos\romboidApp\romboidApp\obj\Debug\netcoreapp3.1\romboidApp.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "romboidApp", "romboidApp\romboidApp.csproj", "{35F65D2B-6A00-4F50-AB32-9A29E9BE6241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F65D2B-6A00-4F50-AB32-9A29E9BE6241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F65D2B-6A00-4F50-AB32-9A29E9BE6241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F65D2B-6A00-4F50-AB32-9A29E9BE6241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F65D2B-6A00-4F50-AB32-9A29E9BE6241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9BB8EDA-4A83-432E-816E-4CBFAF2735EB}
+	EndGlobalSection
+EndGlobal
